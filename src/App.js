@@ -1,10 +1,10 @@
-import logo from './logo.svg';
 import './App.css';
+import MainPage from './main-page/mainPage';
 
 function App() {
   return (
-    <div className='flex justify-center items-center bg-black text-white h-[100vh]'>
-      <h1>asdsadas</h1>
+    <div>
+      <MainPage />
     </div>
   );
 }
