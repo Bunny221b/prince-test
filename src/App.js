@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className='flex justify-center items-center bg-black text-white h-[100vh]'>
-      <p>asdsadas</p>
+      <h1>asdsadas</h1>
     </div>
   );
 }
